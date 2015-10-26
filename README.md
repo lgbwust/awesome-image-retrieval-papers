@@ -26,6 +26,6 @@
 
 > 13、Learning Hash Functions Using Sparse Reconstruction
 
-> 14、Using Very Deep Autoencoders for
+> 14、Using Very Deep Autoencoders for Content-Based Image Retrieval
 
 > 15、Supervised Learning of Semantics-Preserving Hashing via Deep Neural Networks for Large-Scale Image Search
